@@ -1,0 +1,23 @@
+Customer Type Definitions                                                       
+                                                                                
+"Obs","Customer_Type_ID","Customer_Type","Customer_Group_ID","Customer_Group"   
+"1",1010,"Orion Club members inactive",10,"Orion Club members"                  
+"2",1020,"Orion Club members low activity",10,"Orion Club members"              
+"3",1030,"Orion  Club members medium activity",10,"Orion Club members"          
+"4",1040,"Orion  Club members high activity",10,"Orion Club members"            
+"5",2010,"Orion Club Gold members low activity",20,"Orion Club Gold members"    
+"6",2020,"Orion Club Gold members medium activity",20,"Orion Club Gold members" 
+"7",2030,"Orion Club Gold members high activity",20,"Orion Club Gold members"   
+"8",3010,"Internet/Catalog Customers",30,"Internet/Catalog Customers"           
+                                                                                
+Country Definitions                                                             
+                                                                                
+"Obs","Country","Country_Name","Population","Country_ID","Continent_ID","Country_FormerName"                                                                    
+"1","AU","Australia",20,000,000,160,96,""                                                                                                                       
+"2","CA","Canada",.,260,91,""                                                                                                                                   
+"3","DE","Germany",80,000,000,394,93,"East/West Germany"                                                                                                        
+"4","IL","Israel",5,000,000,475,95,""                                                                                                                           
+"5","TR","Turkey",70,000,000,905,95,""                                                                                                                          
+"6","US","United States",280,000,000,926,91,""                                                                                                                  
+"7","ZA","South Africa",43,000,000,801,94,""                                                                                                                    
+                                                                                                                                                                

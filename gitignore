@@ -1,0 +1,10 @@
+venv
+*.gz
+*.pyc
+*.DS_Store
+StackOverflow/
+*.ipynb_checkpoints
+__pycache__
+
+
+data_incubator_stuff/datainc_Jan2016/
